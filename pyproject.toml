@@ -1,0 +1,28 @@
+[project]
+name = "tp1-aa2"
+version = "0.1.0"
+description = "Trabajo Práctico 1 de Aprendizaje Automático II"
+authors = [
+    {name = "Giuliano Crenna", email = "grupo@example.com"},
+    {name = "Bruno E. Pace", email = "grupo@example.com"},
+    {name = "Mariano Sancho", email = "grupo@example.com"}
+]
+dependencies = [
+    "tensorflow[and-cuda]",
+    "keras",
+    "mediapipe",
+    "opencv-python",
+    "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "Pillow",
+    "scikit-image",
+    "scikit-learn",
+    "jupyter"
+]
+requires-python = "==3.11"
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"

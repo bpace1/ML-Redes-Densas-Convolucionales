@@ -1,0 +1,12 @@
+tensorflow[and-cuda]
+keras
+mediapipe
+opencv-python
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+scikit-image
+scikit-learn
+jupyter
