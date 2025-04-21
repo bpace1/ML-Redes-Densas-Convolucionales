@@ -19,7 +19,8 @@ dependencies = [
     "Pillow",
     "scikit-image",
     "scikit-learn",
-    "jupyter"
+    "jupyter",
+    "plotly"
 ]
 requires-python = "==3.11"
 
